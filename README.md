@@ -44,3 +44,10 @@
         new file:   sixerrapp/templates/gig_detail.html
         modified:   sixerrapp/templates/home.html
         modified:   sixerrapp/views.py
+
+
+#### 2.4 URL name and static resources
+
+        modified:   README.md
+        new file:   sixerrapp/static/img/favicon.ico
+        modified:   sixerrapp/templates/base.html
