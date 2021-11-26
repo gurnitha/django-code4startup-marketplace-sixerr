@@ -34,3 +34,13 @@
         NOTE:
 
         Undo git add using: (venv3932) λ git reset HEAD
+
+
+#### 2.3 Working with layout templates
+
+        modified:   README.md
+        modified:   sixerr/urls.py
+        new file:   sixerrapp/templates/base.html
+        new file:   sixerrapp/templates/gig_detail.html
+        modified:   sixerrapp/templates/home.html
+        modified:   sixerrapp/views.py

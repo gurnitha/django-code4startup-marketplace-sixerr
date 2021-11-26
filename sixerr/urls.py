@@ -13,6 +13,7 @@ urlpatterns = [
     # Admin
     path('admin/', admin.site.urls),
     url(r'^$', views.home, name='home'),
+    url(r'^gigs/(?P<id>[0-9]+)/$', views.gig_detail, name='gig_detail')
 ]
 
 if settings.DEBUG:
