@@ -15,3 +15,22 @@
         new file:   sixerr/wsgi.py
 
         Modified Readme file
+
+
+#### 2.2 Create Home Page
+
+        modified:   .gitignore
+        modified:   sixerr/settings.py
+        modified:   sixerr/urls.py
+        new file:   sixerrapp/__init__.py
+        new file:   sixerrapp/admin.py
+        new file:   sixerrapp/apps.py
+        new file:   sixerrapp/migrations/__init__.py
+        new file:   sixerrapp/models.py
+        new file:   sixerrapp/templates/home.html
+        new file:   sixerrapp/tests.py
+        new file:   sixerrapp/views.py
+
+        NOTE:
+
+        Undo git add using: (venv3932) λ git reset HEAD
